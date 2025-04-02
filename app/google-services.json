@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "393652874109",
+    "project_id": "finanzappmovil",
+    "storage_bucket": "finanzappmovil.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393652874109:android:59aeb552d11bdb9b007a14",
+        "android_client_info": {
+          "package_name": "ucne.edu.finanzappmovil"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8JGOfplC2QInwolhjx2jK1sQvclD8b-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
